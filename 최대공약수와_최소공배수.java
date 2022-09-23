@@ -1,8 +1,5 @@
-import java.lang.Math;
-
-public class Main {
+public class 최대공약수와_최소공배수 {
     public static void main(String[] args){
-
     }
 
     public static long[] solution(int n, int m){
